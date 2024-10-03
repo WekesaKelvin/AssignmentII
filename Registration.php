@@ -3,8 +3,8 @@
 class Database {
   private $host = 'localhost';
   private $username = 'root';
-  private $password = '';
-  private $database = 'my_database';
+  private $password = '020504';
+  private $database = 'CAT1';
 
   private $pdo;
 
